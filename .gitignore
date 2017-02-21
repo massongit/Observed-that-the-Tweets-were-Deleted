@@ -1,0 +1,39 @@
+# Created by .ignore support plugin (hsz.mobi)
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+*.log
+*.ctxt
+.mtj.tmp/
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+.idea
+out
+gen### Example user template template
+gen### JetBrains template
+.idea/**/tasks.xml
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/gradle.xml
+.idea/**/mongoSettings.xml
+*.iws
+.idea_modules/
+atlassian-ide-plugin.xml
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+pom.xml
+target/
+*.iml
+/res/twitter4j_.properties
